@@ -1,0 +1,16 @@
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\obj\Release\net5.0\modulo_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\obj\Release\net5.0\modulo_11.AssemblyInfoInputs.cache
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\obj\Release\net5.0\modulo_11.AssemblyInfo.cs
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\obj\Release\net5.0\modulo_11.csproj.CoreCompileInputs.cache
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\obj\Release\net5.0\modulo_11.csprojAssemblyReference.cache
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\bin\Release\net5.0\modulo_11.exe
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\bin\Release\net5.0\modulo_11.deps.json
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\bin\Release\net5.0\modulo_11.runtimeconfig.json
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\bin\Release\net5.0\modulo_11.runtimeconfig.dev.json
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\bin\Release\net5.0\modulo_11.dll
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\bin\Release\net5.0\ref\modulo_11.dll
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\bin\Release\net5.0\modulo_11.pdb
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\obj\Release\net5.0\modulo_11.dll
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\obj\Release\net5.0\ref\modulo_11.dll
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\obj\Release\net5.0\modulo_11.pdb
+C:\Users\Martin000002\source\repos\modulo_11\modulo_11\obj\Release\net5.0\modulo_11.genruntimeconfig.cache
